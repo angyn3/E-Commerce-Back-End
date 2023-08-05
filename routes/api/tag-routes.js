@@ -9,11 +9,11 @@ router.get('/', async (req, res) => {
     const tagData = await Tag.findAll({
       include: [{model: Product}]
     })
-    res.status(200).json(tagsData)
+    res.status(200).json(tagData)
   }
   catch (err) {
     console.log(err)
-    res.status(500).json ({error: 'Internal Server Error'})
+    res.status(500).json ({error: 'Server Error'})
   }
 });
 
