@@ -12,9 +12,9 @@ https://drive.google.com/file/d/1VjF5OShY2e9mjDV4vbHzOxFNYD7ElE0r/view?usp=shari
 
 ## Table of Content
 
+- [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Language and Technology Used](#language-and-technology-used)
-- [Installation](#installation)
 
 ## Installation
 
